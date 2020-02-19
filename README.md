@@ -11,7 +11,7 @@
 <img src="dadosEstat.png"/>
 
 <p>Alguns resultados obtidos para o ano de 2014 seguem abaixo, em sequência: DEA, DFA e SFA.</p>
-<img src="DEA_2014.png"/>
+<img src="DEA_2014.png" style="width:50%"/>
 <hr>
 <img src="DFA_2014.png"/>
 <hr>
