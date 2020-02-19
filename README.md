@@ -8,13 +8,13 @@
 <h3>Informações sobre os dados</h3>
 
 <p>Algumas estatísticas sobre os dados:</p>
-<img src="dadosEstat.png"/>
+<img src="dadosEstat.PNG" height="400" width="600"/>
 
 <p>Alguns resultados obtidos para o ano de 2014 seguem abaixo, em sequência: DEA, DFA e SFA.</p>
-<img src="DEA_2014.png" height="400" width="400"/>
+<img src="DEA_2014.png" height="400" width="600"/>
 <hr>
-<img src="DFA_2014.png"/>
+<img src="DFA_2014.png" height="400" width="600"/>
 <hr>
-<img src="frontier_2014.png"/>
+<img src="frontier_2014.PNG" height="400" width="600"/>
 
 <p> Para maiores informações acessar o site disponibilizado no link: <a href="https://www.anac.gov.br/assuntos/dados-e-estatisticas">https://www.anac.gov.br/assuntos/dados-e-estatisticas</a><p>
